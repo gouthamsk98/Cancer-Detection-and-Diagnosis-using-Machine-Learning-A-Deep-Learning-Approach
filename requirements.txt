@@ -22,8 +22,7 @@ numpy==1.18.2
 pillow==7.1.1                    
 pip==20.0.2                   
 protobuf==3.11.3                  
-pycparser==2.20                     
-python==3.6.10           
+pycparser==2.20                              
 pyyaml==5.3.1                   
 scipy==1.4.1                    
 setuptools==46.1.3               
