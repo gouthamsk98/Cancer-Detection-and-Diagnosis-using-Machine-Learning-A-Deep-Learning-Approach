@@ -35,6 +35,6 @@ termcolor==1.1.0
 vc==14.1            
 vs2015_runtime==14.16.27012        
 Werkzeug==1.0.1                 
-wheel==0.34.2                  
+wheel==0.38.1                  
 wincertstore==0.2             
 wrapt==1.12.1
