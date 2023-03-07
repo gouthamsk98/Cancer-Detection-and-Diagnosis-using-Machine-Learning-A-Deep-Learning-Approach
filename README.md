@@ -1,4 +1,4 @@
-# cancer
+# Cancer Detection and Diagnosis using Machine Learning: A Deep Learning Approach
 This is a Flask web application that predicts whether an uploaded image is malignant or benign. The prediction is made using a pre-trained Keras model which was trained on a dataset of medical images.
 
 ### Requirements
